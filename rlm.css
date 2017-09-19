@@ -1,0 +1,194 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html {
+	background-image: url(http://www.redlettermedia.com/images/background-3.jpg);
+	background-size: cover;
+	margin: 0;
+	padding: 0;
+}
+.contejner {
+	margin: 0 auto;
+	width: 80%;
+	background-color: white;
+	height: 100%;
+	margin-top: 55px;
+	margin-left: 130px;
+}
+.sadrzaj {
+	margin-left: 50px;
+	padding-top: 45px;
+	margin-right: 50px;
+}
+.logo {
+	width: 300px;
+	margin-left: 25px;
+}
+.donate {
+	float: right;
+	width: 150px;
+	margin-right: 35px;
+	/*margin-top: 45px;*/
+}
+
+table {
+	border-collapse: separate;
+    border-spacing: 5px;
+    background-color: #f5f5f5;
+    empty-cells: show;
+    margin-top: 20px;
+}
+td {
+	border-right: 1px solid white;
+	font-size: 13px;
+	font-weight: 800;
+	font-family: 'Open Sans Condensed', sans-serif;
+	padding: 6px;
+	padding-right: 15px;
+}
+.noborder {
+	padding-right: 150px;
+	border-right: none;
+}
+a {
+	text-decoration: none;
+}
+a:hover {
+	color: black;
+}
+a:visited {
+	color: black;
+}
+p a:visited {
+	color: #590000;
+}
+iframe {
+	margin-bottom: 10px;
+}
+h2 {
+	font-size: 10pt;
+	font-family: 'Open Sans Condensed', sans-serif;
+	margin-bottom: 10px;
+}
+.posletabele {
+	margin-top: 32px;
+	
+}
+h3 {
+	width: 650px;
+}
+h3 > a {
+	font-size: 22pt;
+	font-family: 'Open Sans Condensed', sans-serif;
+	color: #333;
+
+}
+p {
+	width: 650px;
+}
+p > a {
+	font-size: 12px;
+	color: #590000;
+	font-weight: bold;
+	font-family: 'Open Sans Condensed', sans-serif;
+	margin-bottom: 10px;
+}
+span {
+	font-family: 'Open Sans Condensed', sans-serif;
+	color: #555;
+	font-weight: bold;
+	font-size: 14px;
+}
+.podnaslov {
+	margin-bottom: 20px;
+}
+.opis {
+	font-family: 'Lora', serif;
+	color: #555;
+	font-size: 15px;
+	margin-bottom: 45px;
+}
+.opis > a {
+	font-family: 'Lora', serif;
+	color: #590000;
+	font-weight: normal;
+	font-size: 15px;
+
+}
+.nextpage {
+	font-size: 15px;
+	font-family: 'Lora', serif;
+	font-weight: normal;
+}
+.desno {
+	float: right;
+	position: relative;
+	margin-top: -5473px;
+	margin-right: 18px;
+}
+
+input {
+	font-family: 'Open Sans Condensed', sans-serif;
+	width: 200px;
+	height: 25px;
+}
+input[placeholder] {
+	font-size: 18px;
+	font-weight: bold;
+}
+button {
+	background-color: black;
+	color: white;
+	font-family: 'Open Sans Condensed', sans-serif;
+	margin-left: -4px;
+	border: none;
+	font-size: 18px;
+	font-weight: bold;
+	line-height: 28px;
+}
+.follow {
+	margin-top: 30px;
+}
+.follow img {
+	width: 40px;
+}
+.random {
+	margin-top: 30px;
+}
+.random a img {
+	width: 280px;
+	display: block;
+	border-left: 1px solid grey;
+	border-right: 1px solid grey;
+	border-top: 1px solid grey;
+
+}
+.caption {
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+}
+.slika2 {
+	margin-top: 10px;
+}
+.store {
+	margin-top: 30px;
+}
+.meta {
+	margin-top: 30px;
+	font-weight: normal;
+	color: black;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+.meta a:visited {
+	color: #590000;
+}
+.kraj {
+	text-align: center;
+	margin-top: 30px;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+.krajnji {
+	color: #590000;
+
+}
