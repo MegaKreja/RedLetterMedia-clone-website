@@ -1,1 +1,1 @@
-# RedLetterMedia-clone-website
+# RedLetterMedia-clone-website not responsive
